@@ -2,13 +2,13 @@
   "name": "USOIR",
   "symbol": "USOIR",
   "description": "USOIR is a represantation of united states revenew from its oil reserve in Iran.We offer this greate opportunity to be part of it",
-  "image": "https://gateway.pinata.cloud/ipfs/bafybeibfylqkttea5hw7bjrzrmfxbsyhpzkabfkd7olgqjealfu4gdsyse",
+  "image": "https://raw.githubusercontent.com/yozihd1921-ops/usoir-token/main/image.png",
   "external_url": "",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/bafybeibfylqkttea5hw7bjrzrmfxbsyhpzkabfkd7olgqjealfu4gdsyse",
+        "uri": "https://raw.githubusercontent.com/yozihd1921-ops/usoir-token/main/image.png",
         "type": "image/png"
       }
     ],
